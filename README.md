@@ -36,13 +36,13 @@ Apple-vision/
 │   └── Vision00001.png ... Vision00025.png
 ```
 
-## Screenshots
+## Demo
 
-![Landing Page Preview](Apple%20vision%20image.png)
+[Watch Landing Page Demo](https://drive.google.com/file/d/1iSZ2OHETLm7BHLK_uqrlfZMjeQnLB6u5/view?usp=drive_link)
 
 ## License
 
-This project is for my skill development 
+This project is for my skill development
 
 ---
 
