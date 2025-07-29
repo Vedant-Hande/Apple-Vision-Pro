@@ -38,7 +38,7 @@ Apple-vision/
 
 **Demo Video**: A screen recording showing the Apple Vision Pro landing page in action with smooth scroll animations, interactive sections, and video backgrounds.
 
-📹 **[Watch Demo Video](https://github.com/Vedant-Hande/Apple-Vision-Pro/blob/main/APPLE%20VISION%20PRO%20-%20Made%20with%20Clipchamp%20(1).mp4)**
+📹 **[Watch Demo Video](https://drive.google.com/file/d/1iSZ2OHETLm7BHLK_uqrlfZMjeQnLB6u5/view?usp=sharing)**
 ## License
 
 This project is for my skill development
