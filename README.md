@@ -36,16 +36,9 @@ Apple-vision/
 │   └── Vision00001.png ... Vision00025.png
 ```
 
-## Demo
-<iframe
-  width="100%"
-  height="315"
-  src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-  frameborder="0"
-  allowfullscreen></iframe>
-  
-**Click the button above to watch the full demo video**
+**Demo Video**: A screen recording showing the Apple Vision Pro landing page in action with smooth scroll animations, interactive sections, and video backgrounds.
 
+📹 **[Watch Demo Video](https://github.com/Vedant-Hande/Apple-Vision-Pro/blob/main/APPLE%20VISION%20PRO%20-%20Made%20with%20Clipchamp%20(1).mp4)**
 ## License
 
 This project is for my skill development
