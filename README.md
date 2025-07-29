@@ -37,11 +37,11 @@ Apple-vision/
 ```
 
 ## Demo
-
+```html
 <video width="100%" controls>
   <source src="https://github.com/Vedant-Hande/Apple-Vision-Pro/blob/main/APPLE%20VISION%20PRO%20-%20Made%20with%20Clipchamp%20(1).mp4" type="video/mp4">
 </video>
-
+```
 **Click the button above to watch the full demo video**
 
 ## License
