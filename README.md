@@ -37,8 +37,9 @@ Apple-vision/
 ```
 
 ## Demo
-
-[![Apple Vision Pro Landing Page Demo](https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1iSZ2OHETLm7BHLK_uqrlfZMjeQnLB6u5/view?usp=drive_link)
+<video width="100%" controls>
+  <source src="APPLE VISION PRO - Made with Clipchamp (1).mp4" type="video/mp4">
+</video>
 
 **Click the button above to watch the full demo video**
 
